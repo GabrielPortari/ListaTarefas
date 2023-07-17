@@ -1,0 +1,9 @@
+<resources>
+    <!-- <string name=""></string> -->
+    <string name="salvar">Salvar</string>
+    <string name="app_name">ListaTarefas</string>
+    <string name="fab_add_content_description">FAB Add Tarefa</string>
+    <string name="fab_confirm_content_description">FAB Confirmar Tarefa</string>
+    <string name="input_text_hint">Digite uma tarefa</string>
+    <string name="item_lista">-- Item tarefa --</string>
+</resources>
